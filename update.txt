@@ -1,0 +1,5 @@
+[NewVersion]
+Version=2.2
+NeiRong=2.2beta版本已推出，要更新吗？地址：llq.dml.ink（请不要在此界面更新。去网站下载最新版本，2.2暂不支持via账号登陆，支持谷歌同步）
+2.1more=https://llq.dml.ink
+2.0more=llq.dml.ink

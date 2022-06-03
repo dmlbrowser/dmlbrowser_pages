@@ -1,0 +1,12 @@
+/* CSS Document */
+
+.mdui-row > [class*="mdui-col-"] {
+  margin-bottom: 8px;
+}
+#llq_text_div{
+overflow: hidden;
+ 	text-overflow: inherit;	
+display: -webkit-box;
+-webkit-line-clamp: 2;
+-webkit-box-orient: vertical;
+}

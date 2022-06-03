@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: 迪莫乐浏览器
+description: The small and fast browser on computer,and so powerful with customization.
+show_downloads: false
+github:
+  is_project_page : false
+  repository_url : https://dml.ink
