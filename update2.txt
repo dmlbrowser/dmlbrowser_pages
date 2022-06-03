@@ -1,0 +1,4 @@
+[NewVersion]
+Version=3.1.4844.312
+NeiRong=注：跨架构版本需退出浏览器后再打开安装包进行安装\n①更换99.0.4844.70内核\n——2022.03.12
+DiZhi=https://dmlgzs.lanzouo.com/b0d22amch
